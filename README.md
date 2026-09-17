@@ -24,7 +24,7 @@ My personal stack right now is React + Tailwind + DaisyUI end to end — compone
 | **Genesi** | Fertility wellness platform for Zimbabwean women — nutrition, lifestyle and faith-based content over a structured data layer | React 18 · Vite · Tailwind · Supabase | [genesi-fertility.netlify.app](https://genesi-fertility.netlify.app/) |
 | **React demo store** | A storefront build used to practice and demonstrate ecommerce UX patterns outside of Magento | React · Tailwind · DaisyUI | [krm-react-demo-store.vercel.app](https://krm-react-demo-store.vercel.app/) |
 | **Personal portfolio (React)** | React rebuild of my portfolio — component library, theming, and content all driven from the same stack I ship for clients | React · Tailwind · DaisyUI | [krm-react-portfolio.vercel.app](https://krm-react-portfolio.vercel.app/) |
-| **KRM.Studio** | My agency — frontend and full-site builds for local and international clients, run out of Harare | — | [krmstudio.co.zw](https://krmstudio.co.zw) |
+| **KRM.Studio** | My agency — frontend and full-site builds for local and international clients, run out of Harare | React · Typescript · PHP · Tailwind | [krmstudio.co.zw](https://krmstudio.co.zw) |
 
 ---
 
