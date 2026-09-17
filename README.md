@@ -1,4 +1,4 @@
-# Hi, I'm Karen 👋
+# Hi, I'm Karen
 
 **Frontend Engineer | React · TypeScript · JavaScript · Magento 2**
 
@@ -26,8 +26,6 @@ My personal stack right now is React + Tailwind + DaisyUI end to end — compone
 | **Personal portfolio (React)** | React rebuild of my portfolio — component library, theming, and content all driven from the same stack I ship for clients | React · Tailwind · DaisyUI | [krm-react-portfolio.vercel.app](https://krm-react-portfolio.vercel.app/) |
 | **KRM.Studio** | My agency — frontend and full-site builds for local and international clients, run out of Harare | — | [krmstudio.co.zw](https://krmstudio.co.zw) |
 
-📦 Genesi's repo is now public — code linked from the project itself.
-
 ---
 
 ## 🏬 Production storefronts I've shipped
@@ -36,13 +34,13 @@ My personal stack right now is React + Tailwind + DaisyUI end to end — compone
 
 Real, live enterprise commerce — not demos. This is the depth behind the Magento/Adobe Commerce line above.
 
+- [DCC Tech](https://engage.dcctech.com/ZAJHB/)
 - [Italtile](https://www.italtile.co.za/mosaic-tiles-category.html)
 - [CTM](https://www.ctm.co.za/bathrooms-category.html)
 - [Mabati](https://shop.mabati.com/rain-water-harvesting-systems/rain-gain-systems/raingain-systems.html)
 - [Powerfleet Marketplace](https://powerfleetmarketplace.com/ai-video/devices.html)
 - [Faithful to Nature](https://www.faithful-to-nature.co.za/)
 - [Pet Heaven](https://www.petheaven.co.za/)
-- [DCC Tech](https://engage.dcctech.com/ZAJHB/)
 
 ---
 
