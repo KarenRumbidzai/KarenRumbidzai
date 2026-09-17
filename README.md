@@ -7,7 +7,9 @@ open to work
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karenrumbie/) [![Email](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rmufandaedza@gmail.com)
 
 12+ years on the frontend.
-most of it spent turning slow, XML-heavy Magento storefronts into fast, modular Hyvä builds. These days that same instinct for lean, componentised UI shows up in my own stack: **React, NextJS, Tailwind, and DaisyUI**, with a growing set of live products to prove it rather than just talk about it.
+most of it spent turning slow, XML-heavy Magento storefronts into fast, modular Hyvä builds. These days that same instinct for lean, componentised UI shows up in my own stack:
+
+**React, NextJS, Tailwind, and DaisyUI**, with a growing set of live products to prove it rather than just talk about it.
 
 ---
 
