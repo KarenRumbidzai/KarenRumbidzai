@@ -2,7 +2,7 @@
 
 **Senior Frontend Engineer — Adobe Commerce / Magento 2 · Hyvä · React + Tailwind + DaisyUI**
 
-Harare, Zimbabwe · open to work
+open to work
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karenrumbie/) [![Email](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rmufandaedza@gmail.com)
 
