@@ -16,14 +16,14 @@ My current work spans React-based applications and Adobe Commerce storefronts, w
 
 [#-what-im-building](#-what-im-building)
 
-My personal stack right now is React + Tailwind + DaisyUI end to end — component-driven, no bloated UI kits, fast to ship and easy to theme.
+My personal stack right now is React + Tailwind + DaisyUI end to end. Component-driven, no bloated UI kits, fast to ship and easy to theme.
 
 | Project | What it is | Stack | Live |
 |---|---|---|---|
-| **Mamamaps** *(Mummies Bank)* | Community directory turning a Google Sheets dataset into a searchable resource for Harare parents — auth, search, saved places, pagination | React · Vite · Tailwind v4 · Google Sheets API | [mamamaps-mpii.vercel.app](https://mamamaps-mpii.vercel.app/) |
-| **Genesi** | Fertility wellness platform for Zimbabwean women — nutrition, lifestyle and faith-based content over a structured data layer | React 18 · Vite · Tailwind · Supabase | [genesi-fertility.netlify.app](https://genesi-fertility.netlify.app/) |
+| **Mamamaps** *(Mummies Bank)* | Community directory turning a Google Sheets dataset into a searchable resource for Harare parents - auth, search, saved places, pagination | React · Vite · Tailwind v4 · Google Sheets API | [mamamaps-mpii.vercel.app](https://mamamaps-mpii.vercel.app/) |
+| **Genesi** | Fertility wellness platform for Zimbabwean women - nutrition, lifestyle and faith-based content over a structured data layer | React 18 · Vite · Tailwind · Supabase | [genesi-fertility.netlify.app](https://genesi-fertility.netlify.app/) |
 | **React demo store** | A storefront build used to practice and demonstrate ecommerce UX patterns outside of Magento | React · Tailwind · DaisyUI | [krm-react-demo-store.vercel.app](https://krm-react-demo-store.vercel.app/) |
-| **Personal portfolio (React)** | React rebuild of my portfolio — component library, theming, and content all driven from the same stack I ship for clients | React · Tailwind · DaisyUI | [krm-react-portfolio.vercel.app](https://krm-react-portfolio.vercel.app/) |
+| **Personal portfolio (React)** | React rebuild of my portfolio - component library, theming, and content all driven from the same stack I ship for clients | React · Tailwind · DaisyUI | [krm-react-portfolio.vercel.app](https://krm-react-portfolio.vercel.app/) |
 | **KRM.Studio** | My agency — frontend and full-site builds for local and international clients, run out of Harare | React · Typescript · PHP · Tailwind | [krmstudio.co.zw](https://krmstudio.co.zw) |
 
 ---
@@ -32,7 +32,7 @@ My personal stack right now is React + Tailwind + DaisyUI end to end — compone
 
 [#-production-storefronts-ive-shipped](#-production-storefronts-ive-shipped)
 
-Real, live enterprise commerce — not demos. This is the depth behind the Magento/Adobe Commerce line above.
+Real, live enterprise commerce - not demos. This is the depth behind the Magento/Adobe Commerce line above.
 
 - [DCC Tech](https://engage.dcctech.com/ZAJHB/)
 - [Italtile](https://www.italtile.co.za/mosaic-tiles-category.html)
@@ -60,10 +60,10 @@ Less "job history," more the actual problems I get called in to solve.
 
 **Teams that need to ship without breaking the storefront**
 - Ran code review and mentorship for teams of 6+, across projects with as many as 8 developer teams collaborating on one delivery.
-- Brought AI-assisted workflows (Cursor, Claude Code, Codex) into daily delivery for large-scale migration and debugging — with human code review still the actual gate.
+- Brought AI-assisted workflows (Cursor, Claude Code, Codex) into daily delivery for large-scale migration and debugging - with human code review still the actual gate.
 
 **Client work that goes past the code**
-- Quantum Leap into Freedom (real client, [quantumleapintofreedom.co.zw](https://quantumleapintofreedom.co.zw/)): took a business from a marketing poster to a live site — domain, hosting, professional email with SPF/DKIM, and an ongoing technical relationship as the person who keeps it running.
+- Quantum Leap into Freedom (real client, [quantumleapintofreedom.co.zw](https://quantumleapintofreedom.co.zw/)): took a business from a marketing poster to a live site - domain, hosting, professional email with SPF/DKIM, and an ongoing technical relationship as the person who keeps it running.
 
 ---
 
@@ -85,6 +85,6 @@ Less "job history," more the actual problems I get called in to solve.
 
 [#-get-in-touch](#-get-in-touch)
 
-Open to senior frontend engineering roles across any sector — eCommerce/Magento is where I go deepest, but not where I stop. Also open to agency work through **KRM.Studio**.
+Open to senior frontend engineering roles across any sector - eCommerce/Magento is where I go deepest, but not where I stop. Also open to agency work through **KRM.Studio**.
 
 📧 **rmufandaedza@gmail.com** · 🌐 [karenrumbie.com](https://karenrumbie.com) · 💼 [LinkedIn](https://www.linkedin.com/in/karenrumbie/)
