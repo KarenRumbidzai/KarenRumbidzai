@@ -91,4 +91,4 @@ Less "job history," more the actual problems I get called in to solve.
 
 Open to senior frontend engineering roles across any sector - eCommerce/Magento is where I go deepest, but not where I stop. Also open to agency work through **KRM.Studio**.
 
-📧 **rmufandaedza@gmail.com** · 🌐 [karenrumbie.com](https://karenrumbie.com) · 💼 [LinkedIn](https://www.linkedin.com/in/karenrumbie/)
+📧 **rmufandaedza@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/karenrumbie/)
