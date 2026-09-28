@@ -6,9 +6,13 @@ Open to remote & international work
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karenrumbie/) [![Email](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rmufandaedza@gmail.com)
 
-Frontend engineer with 15+ years of experience building modern, responsive web applications and eCommerce platforms. Experienced across React, TypeScript, JavaScript and modern CSS, with deep expertise in Magento 2 / Adobe Commerce and Hyvä.
+Senior frontend engineer and technical project lead with 15+ years of experience building fast, accessible web applications and eCommerce platforms.
 
-My current work spans React-based applications and Adobe Commerce storefronts, with a focus on reusable components, performance, accessibility and maintainable frontend architecture.
+I specialise in React, TypeScript and modern designs, with deep expertise in Magento 2 / Adobe Commerce and Hyvä. I focus on reusable components, performance and maintainable frontend architecture.
+
+I also lead delivery. I turn business requirements into scoped, actionable work, run Kanban boards across dev, code review and QA, and keep projects on track by surfacing blockers early and pairing every risk with a solution. I've taken over projects mid-crisis, rescoped them and shipped on the revised date.
+
+Tools: Jira, Trello, GitHub, Kanban, Scrum
 
 ---
 
