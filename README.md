@@ -1,6 +1,6 @@
 # Hi, I'm Karen
 
-**Frontend Engineer | React · TypeScript · JavaScript · Magento 2**
+**Frontend Engineer | React · TypeScript · JavaScript · Magento 2 · Project Manager**
 
 Open to remote & international work
 
