@@ -81,7 +81,7 @@ I'm writing about the practical side of software development — the methods, ha
 
 No theory for theory's sake. Just things I've learned by doing the work.
 
-👉 **[Read the Dev Methods series](https://karenrumbidzai.github.io/blog/)**
+**[Read the Dev Methods series](https://karenrumbidzai.github.io/blog/)**
 
 ---
 
