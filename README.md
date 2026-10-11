@@ -99,4 +99,3 @@ I'm open to opportunities where technical understanding and delivery leadership 
 I'm particularly interested in remote and international opportunities, as well as selected client engagements through **KRM.Studio**.
 
 📧 [rmufandaedza@gmail.com](mailto:rmufandaedza@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/karenrumbie/)
-git@github.com:KarenRumbidzai/KarenRumbidzai.git
