@@ -4,8 +4,6 @@
 
 Technical Delivery · Agile / Scrum / Kanban · React · Adobe Commerce · Magento 2 · Hyvä
 
-Harare, Zimbabwe · Open to remote and international opportunities
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karenrumbie/) [![Email](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rmufandaedza@gmail.com)
 
 I'm a technical delivery leader and frontend engineer with **12+ years of experience building and modernising web applications and e-commerce platforms**, alongside hands-on responsibility for coordinating engineering teams, managing delivery workflows, and translating business requirements into executable technical work.
