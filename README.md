@@ -1,121 +1,102 @@
-# Hi, I'm Karen
+# Hi, I'm Karen 👋
 
-**Frontend Engineer · React · TypeScript · JavaScript · Magento 2 · Project Management · Project Coordinator**
+**Technical Project Manager | Frontend Engineering Lead**
 
-Open to remote & international work.
+Technical Delivery · Agile / Scrum / Kanban · React · Adobe Commerce · Magento 2 · Hyvä
+
+Harare, Zimbabwe · Open to remote and international opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karenrumbie/) [![Email](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rmufandaedza@gmail.com)
 
-Senior frontend engineer and technical project lead with **15+ years of experience building and shipping web applications and eCommerce platforms**.
+I'm a technical delivery leader and frontend engineer with **12+ years of experience building and modernising web applications and e-commerce platforms**, alongside hands-on responsibility for coordinating engineering teams, managing delivery workflows, and translating business requirements into executable technical work.
 
-I specialise in **React, TypeScript and modern frontend architecture**, with deep expertise in **Magento 2 / Adobe Commerce and Hyvä**. I care about reusable components, performance, accessibility and code that can actually be maintained after it leaves my laptop.
+My work sits at the intersection of **people, technology, and delivery**. I coordinate engineering priorities, facilitate Agile ceremonies, manage Jira workflows, clarify acceptance criteria, surface risks and blockers, support scope and timeline decisions, and maintain technical quality through code reviews and hands-on problem-solving.
 
-I also lead delivery. I turn business requirements into scoped, actionable work, run Kanban boards across development, code review and QA, and surface blockers early. I've taken over projects mid-crisis, helped rescope them and worked with teams to get them shipped.
+I bring an engineering-first perspective to project management: I understand the implementation details, the dependencies, the trade-offs, and what it takes to get software into production.
 
-**Tools:** Jira · Trello · GitHub · Kanban · Scrum
+My technical background spans Adobe Commerce / Magento 2, Hyvä, JavaScript, React, and modern component-driven frontend architecture. I'm also building independent products through my own projects and KRM.Studio.
 
----
-
-## 🧪 What I'm building
-
-My personal stack right now is **React + Tailwind + DaisyUI** end to end.
-
-Component-driven, deliberately lightweight, and built without relying on bloated UI kits.
-
-| Project                     | What it is                                                                                                                                              | Stack                                          | Live                                             |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------ |
-| **Mamamaps (Mummies Bank)** | Community directory turning a Google Sheets dataset into a searchable resource for Harare parents — authentication, search, saved places and pagination | React · Vite · Tailwind v4 · Google Sheets API | [Live](https://mamamaps-mpii.vercel.app/)        |
-| **Genesi**                  | Fertility wellness platform for Zimbabwean women — nutrition, lifestyle and faith-based content over a structured data layer                            | React 18 · Vite · Tailwind · Supabase          | [Live](https://genesi-fertility.netlify.app/)    |
-| **React Demo Store**        | Storefront build used to practise and demonstrate eCommerce UX patterns outside of Magento                                                              | React · Tailwind · DaisyUI                     | [Live](https://krm-react-demo-store.vercel.app/) |
-| **Personal Portfolio**      | React rebuild of my portfolio — component library, theming and content driven from the same stack I use for modern frontend work                        | React · Tailwind · DaisyUI                     | [Live](https://krm-react-portfolio.vercel.app/)  |
-| **KRM.Studio**              | My agency for frontend and full-site builds for local and international clients                                                                         | React · TypeScript · PHP · Tailwind            | [Live](https://krmstudio.co.zw/)                 |
+**My focus: predictable delivery, clear technical communication, and software that solves real business problems.**
 
 ---
 
-## 🏬 Production storefronts I've shipped
+## 🎯 Technical Project Management & Delivery
 
-Real, live enterprise commerce — not demos.
+I combine practical engineering experience with the coordination and delivery responsibilities needed to move complex technical work forward.
 
-This is the depth behind the Magento / Adobe Commerce side of my experience.
+- **Delivery coordination:** Coordinate engineering priorities, sprint work, dependencies, and delivery progress across frontend, backend, and other technical contributors.
+- **Agile execution:** Facilitate stand-ups and delivery discussions; support sprint planning, backlog refinement, estimation, and continuous improvement.
+- **Project visibility:** Maintain Jira workflows, clarify ticket ownership and status, strengthen acceptance criteria, and identify work that is blocked or at risk.
+- **Stakeholder communication:** Align engineering execution with business priorities, communicate progress and risks, and support decisions around scope and delivery trade-offs.
+- **Technical leadership:** Review code, guide implementation decisions, uphold engineering standards, and stay hands-on when complex delivery issues require it.
+- **Quality and release readiness:** Help teams identify technical risks early and balance delivery speed with maintainability, performance, and production stability.
 
-- [DCC Tech](https://engage.dcctech.com/ZAJHB/)
-- [Italtile](https://www.italtile.co.za/mosaic-tiles-category.html)
-- [CTM](https://www.ctm.co.za/bathrooms-category.html)
-- [Mabati](https://shop.mabati.com/rain-water-harvesting-systems/rain-gain-systems/raingain-systems.html)
-- [Powerfleet Marketplace](https://powerfleetmarketplace.com/ai-video/devices.html)
-- [Faithful to Nature](https://www.faithful-to-nature.co.za/)
-- [Pet Heaven](https://www.petheaven.co.za/)
+My approach is grounded in real engineering delivery rather than project administration alone: I can work with stakeholders on the _what and why_ while engaging developers on the _how_.
 
----
+## 🧪 What I'm Building
 
-## 🎯 What I actually fix
+My independent projects give me a practical space to explore product development, modern frontend architecture, integrations, and end-to-end delivery.
 
-Less "job history." More the problems I get called in to solve.
+| Project                       | What it does                                                                                                    | Stack                                           | Live                                                   |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------ |
+| **Mamamaps** _(Mummies Bank)_ | A searchable community directory for Harare parents, with authentication, saved places, and pagination.         | React · Vite · Tailwind CSS · Google Sheets API | [Visit site](https://mamamaps-mpii.vercel.app/)        |
+| **Genesi**                    | A fertility wellness platform for Zimbabwean women, built around structured content and a dedicated data layer. | React · Vite · Tailwind CSS · Supabase          | [Visit site](https://genesi-fertility.netlify.app/)    |
+| **React Demo Store**          | An independent storefront demonstrating e-commerce UX patterns outside Magento.                                 | React · Tailwind CSS · DaisyUI                  | [Visit site](https://krm-react-demo-store.vercel.app/) |
+| **React Portfolio**           | A component-driven portfolio exploring reusable UI, theming, and content architecture.                          | React · Tailwind CSS · DaisyUI                  | [Visit site](https://krm-react-portfolio.vercel.app/)  |
+| **KRM.Studio**                | My independent web development studio serving local and international clients.                                  | Web development · Client delivery               | [Visit site](https://krmstudio.co.zw/)                 |
 
-### Storefronts that got slow because nobody was watching the JavaScript
+## 🏗️ Engineering Problems I Solve
 
-- Migrated enterprise B2B storefronts from Magento Luma — XML, KnockoutJS, RequireJS and jQuery — to Hyvä, cutting JavaScript footprint by **70–90%** and improving Core Web Vitals.
-- Replaced XML-heavy layout structures with modular Alpine.js + Tailwind PHTML templates rather than adding another layer of patches to an already complex frontend.
+### Enterprise commerce modernisation
 
-### B2B commerce that's more than a checkout
+- Led frontend modernisation work moving legacy Magento storefronts from Luma-based implementations to Hyvä.
+- Reduced JavaScript footprint by approximately **70–90%** on relevant migrations by replacing legacy frontend dependencies with leaner Alpine.js and Tailwind CSS implementations.
+- Improved frontend maintainability and supported better Core Web Vitals through performance-conscious architecture and implementation.
 
-- Built company dashboards, custom pricing, bulk ordering, requisition lists and quote management on Adobe Commerce B2B.
-- Customised purchase-order flows and company role management around how businesses actually buy.
+### Complex B2B commerce workflows
 
-### Teams that need to ship without breaking the storefront
+- Delivered company dashboards, custom pricing, bulk ordering, requisition lists, quote management, purchase-order workflows, and company role functionality on Adobe Commerce.
+- Translated complex business purchasing requirements into practical storefront features and technical implementation work.
 
-- Led code review and mentorship for teams of **6+ developers**, across projects involving as many as **8 collaborating development teams**.
-- Introduced AI-assisted development workflows using tools such as Cursor, Claude Code and Codex for migration and debugging work — with human review remaining the quality gate.
+### Cross-functional engineering delivery
 
-### Client work that goes past the code
+- Led and coordinated engineering teams of up to eight developers across frontend and backend responsibilities, with additional technical contributors where required.
+- Worked across implementation planning, code reviews, backlog coordination, issue resolution, and delivery prioritisation.
+- Supported alignment between business requirements, technical dependencies, acceptance criteria, and engineering capacity.
 
-- **Quantum Leap into Freedom** — took a business from a marketing concept to a live website, including domain, hosting, professional email, SPF/DKIM configuration and ongoing technical support.
+### End-to-end client delivery
 
----
+**Quantum Leap into Freedom** — [quantumleapintofreedom.co.zw](https://quantumleapintofreedom.co.zw/)
 
-## ✍️ Dev Methods
+Delivered a business website from initial concept through launch, including domain setup, hosting, and professional email configuration with SPF/DKIM. Continue to provide technical support and maintain the client relationship.
 
-I'm writing about the practical side of software development — the methods, habits and lessons that come from **15+ years of actually shipping software**.
+## 🛠️ Technical Toolkit
 
-**Dev Methods** is a series about the 101 things developers often learn the hard way: Git, deployments, debugging, legacy code, production incidents, code ownership, working with clients and teams, and the small practices that make developers better over time.
+**Project & Delivery Management**  
+Jira · Sprint planning · Backlog refinement · Acceptance criteria · Estimation · Dependency coordination · Risk and blocker tracking · Stakeholder communication · Agile / Scrum / Kanban · Waterfall project practices
 
-No theory for theory's sake. Just things I've learned by doing the work.
+**Frontend Engineering**  
+React · JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · Tailwind CSS · DaisyUI · Vite · Alpine.js · Vue.js
 
-**[Read the Dev Methods series](https://karenrumbidzai.github.io/blog/)**
+**E-commerce & CMS**  
+Adobe Commerce · Magento 2 · Hyvä · B2B commerce · XML layouts · PHTML · Custom pricing and ordering workflows
 
----
+**Integration & Backend Exposure**  
+REST APIs · Supabase · Google Sheets API · PHP
 
-## 🛠️ Tech
+**Engineering Practices**  
+Code review · Component-based architecture · Performance optimisation · Core Web Vitals · Legacy modernisation · AI-assisted development with human review
 
-**Current stack**
+## 📬 Let's Connect
 
-`React` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` `DaisyUI` `Vite` `Supabase`
+I'm open to opportunities where technical understanding and delivery leadership work together:
 
-**Commerce**
+- **Technical Project Manager / Technical Delivery Manager**
+- **Technical Program Manager**, where the role aligns with my cross-functional delivery experience
+- **Engineering Lead / Frontend Lead**
+- **Senior Frontend Engineer** roles with delivery ownership
 
-`Magento 2 / Adobe Commerce (B2B & B2C)` `Hyvä` `Alpine.js` `XML layout systems`
+I'm particularly interested in remote and international opportunities, as well as selected client engagements through **KRM.Studio**.
 
-**Also**
-
-`Vue.js` `Sass/LESS` `PHP`
-
-**Practices**
-
-Performance & Core Web Vitals · Accessibility · Legacy modernisation · Component-based architecture · AI-augmented development
-
-**Delivery**
-
-Jira · Trello · GitHub · Kanban · Scrum · Requirements to Delivery · Code Review · QA Coordination
-
----
-
-## 📬 Get in touch
-
-Open to **senior frontend engineering roles across any sector**.
-
-eCommerce and Magento are where I go deepest, but they aren't where I stop.
-
-Also open to agency and client work through **KRM.Studio**.
-
-📧 **[rmufandaedza@gmail.com](mailto:rmufandaedza@gmail.com)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/karenrumbie/)**
+📧 [rmufandaedza@gmail.com](mailto:rmufandaedza@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/karenrumbie/)
+git@github.com:KarenRumbidzai/KarenRumbidzai.git
