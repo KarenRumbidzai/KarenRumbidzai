@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/karenrumbie/"><img src="https://img.shields.io/badge/LinkedIn-5A7A74?style=for-the-badge&logo=linkedin&logoColor=F7F8F6" alt="LinkedIn"/></a>
   <a href="mailto:rmufandaedza@gmail.com"><img src="https://img.shields.io/badge/Email-D4836B?style=for-the-badge&logo=gmail&logoColor=F7F8F6" alt="Email"/></a>
-  <a href="https://krmstudio.co.zw/"><img src="https://img.shields.io/badge/KRM.Studio-2C3E3B?style=for-the-badge&logo=googlechrome&logoColor=F7F8F6" alt="KRM.Studio"/></a>
 </p>
 
 <p align="center">
@@ -67,7 +66,7 @@ _My involvement varied by project. These links demonstrate production work I've 
 
 **🏗️ Commerce modernisation**
 
-Magento 2 → Mage-OS & Hyvä. Legacy frontend modernisation, technical dependencies, performance optimisation, and maintainability.
+Magento 2 - Mage-OS & Hyvä. Legacy frontend modernisation, technical dependencies, performance optimisation, and maintainability.
 
 **🗺️ Roadmaps & delivery planning**
 
