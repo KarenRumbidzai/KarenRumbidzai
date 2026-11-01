@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C9D96,50:5A7A74,100:2C3E3B&height=180&section=header&text=Karen%20Rumbie&fontSize=42&fontColor=F7F8F6&animation=fadeIn&fontAlignY=38&desc=Technical%20Project%20Management%20%7C%20Software%20Delivery&descSize=16&descAlignY=58" width="100%" alt="Karen Rumbie — Technical Project Management and Software Delivery"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C9D96,50:5A7A74,100:2C3E3B&height=180&section=header&text=Karen%20Rumbie&fontSize=42&fontColor=F7F8F6&animation=fadeIn&fontAlignY=38&desc=Technical%20Project%20Management%20%7C%20Software%20Delivery&descSize=16&descAlignY=58" width="100%" alt="Karen Rumbie - Technical Project Management and Software Delivery"/>
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ My approach combines technical understanding with the planning, coordination and
 
 ## 🏗️ Selected Technical Delivery Experience
 
-### B2B Commerce Modernisation — DCC Tech
+### B2B Commerce Modernisation - DCC Tech
 
 **eCommerceAfrica | Mage-OS, Magento 2 and Hyvä**
 
@@ -178,7 +178,7 @@ REST APIs · Supabase · Google Sheets API · Core Web Vitals · WebPageTest · 
 
 Cursor · Claude Code · Codex · GitHub Copilot · AI-assisted development workflows with human review and approval.
 
-### Tools & Methodologies — Experience Context
+### Tools & Methodologies - Experience Context
 
 - **Jira:** Used for development task tracking from approximately 2013; expanded into technical project management, workflow coordination and delivery tracking from 2018.
 - **Scrum:** Practical experience since 2015, beginning at Invent Commerce.
@@ -209,16 +209,21 @@ I'm interested in opportunities where technical understanding, engineering coord
 
 📧 [rmufandaedza@gmail.com](mailto:rmufandaedza@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/karenrumbie/)
 
-## 🛠️ Technical Toolkit
-
 <p>
   <img src="https://img.shields.io/badge/Delivery_Management-5A7A74?style=flat-square" alt="Delivery Management"/>
+  <img src="https://img.shields.io/badge/Agile-5A7A74?style=flat-square" alt="Agile"/>
+  <img src="https://img.shields.io/badge/Scrum-7C9D96?style=flat-square" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/Kanban-2C3E3B?style=flat-square" alt="Kanban"/>
+  <img src="https://img.shields.io/badge/Risk_Assessment-D4836B?style=flat-square" alt="Risk Assessment"/>
+  <img src="https://img.shields.io/badge/Stakeholder_Management-5A7A74?style=flat-square" alt="Stakeholder Management"/>
+  <img src="https://img.shields.io/badge/Scope_Trade--off-D4836B?style=flat-square" alt="Scope Trade-off"/>
+  <img src="https://img.shields.io/badge/Jira-5A7A74?style=flat-square&logo=jira&logoColor=F7F8F6" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Trello-7C9D96?style=flat-square&logo=trello&logoColor=222827" alt="Trello"/>
   <img src="https://img.shields.io/badge/React-7C9D96?style=flat-square&logo=react&logoColor=222827" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-5A7A74?style=flat-square&logo=typescript&logoColor=F7F8F6" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-D4836B?style=flat-square&logo=javascript&logoColor=222827" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Magento_2-2C3E3B?style=flat-square" alt="Magento 2"/>
   <img src="https://img.shields.io/badge/Hyvä-7C9D96?style=flat-square" alt="Hyvä"/>
-  <img src="https://img.shields.io/badge/Jira-5A7A74?style=flat-square&logo=jira&logoColor=F7F8F6" alt="Jira"/>
 </p>
 
 <p align="center">
