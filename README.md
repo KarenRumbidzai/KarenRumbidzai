@@ -13,117 +13,201 @@
   <img src="https://img.shields.io/badge/Software_Engineering-2C3E3B?style=flat-square&logoColor=F7F8F6" alt="Software Engineering"/>
 </p>
 
-# Hi, I'm Karen 👋
+# Hi, I'm Karen Rumbie 👋
 
-**Technical Project Manager | Frontend Engineering Lead**
+## Technical Project Manager | Technical Program & Delivery Management
 
-Technical Delivery · Agile / Scrum / Kanban · React · Adobe Commerce · Magento 2 · Hyvä
+**Technical Delivery · Agile / Scrum / Kanban · Engineering Leadership · Technical Planning · Risk & Dependency Management**
 
-I'm a **technical delivery professional with 15+ years of experience in software development and technical leadership**, combining hands-on engineering knowledge with experience coordinating teams, managing delivery workflows, and translating business requirements into executable technical work.
+I'm a **Technical Project and Delivery Manager with 7+ years of experience in technical project management and 15+ years in software engineering.**
 
-My work sits at the intersection of **people, technology, and delivery**. I coordinate engineering priorities, facilitate Agile ceremonies, manage Jira workflows, clarify acceptance criteria, surface risks and blockers, and support decisions around scope, dependencies, and delivery timelines.
+I specialise in translating business requirements into executable technical plans, coordinating multidisciplinary engineering teams, validating estimates, managing scope and dependencies, identifying delivery risks, and aligning engineering execution with business priorities.
 
-My engineering background helps me bridge business and technical teams. I understand implementation details, architectural trade-offs, dependencies, and what it takes to get software into production.
+My background is in hands-on software engineering, which gives me a practical understanding of architecture, integrations, implementation complexity and technical trade-offs. I use that knowledge to help teams make realistic delivery commitments, resolve technical constraints and deliver software that meets business objectives.
 
-My technical background spans Adobe Commerce / Magento 2, Hyvä, JavaScript, React, and modern component-driven frontend architecture. I also build independent products and undertake client projects through KRM.Studio.
+My experience spans enterprise e-commerce, B2B platforms, platform modernisation, system integrations and independent product development.
 
-> 🌿 **My focus:** Predictable delivery, clear technical communication, and software that solves real business problems.
+**My focus: predictable technical delivery, clear stakeholder communication, and effective coordination between business and engineering.**
 
 ---
 
-## 🎯 Technical Project Management & Delivery
+## 🎯 Technical Project & Delivery Management
 
-I combine practical engineering experience with the coordination and delivery responsibilities needed to move complex technical work forward.
+My approach combines technical understanding with the planning, coordination and decision-making required to move complex software initiatives from requirements through implementation and release.
 
-- **Delivery coordination:** Coordinate engineering priorities, sprint work, dependencies, and delivery progress across frontend, backend, and other technical contributors.
-- **Agile execution:** Facilitate stand-ups and delivery discussions; support sprint planning, backlog refinement, estimation, and continuous improvement.
-- **Project visibility:** Maintain Jira workflows, clarify ticket ownership and status, strengthen acceptance criteria, and identify work that is blocked or at risk.
-- **Stakeholder communication:** Align engineering execution with business priorities, communicate progress and risks, and support decisions around scope and delivery trade-offs.
-- **Technical leadership:** Review code, guide implementation decisions, uphold engineering standards, and contribute hands on when complex delivery issues require it.
-- **Quality and release readiness:** Help teams identify technical risks early and balance delivery speed with maintainability, performance, and production stability.
+### Delivery planning and execution
 
-My approach is grounded in real engineering delivery rather than project administration alone: I can work with stakeholders on the _what and why_ while engaging developers on the _how_.
+- Translate business requirements into technical delivery plans, work breakdowns and actionable engineering tasks.
+- Coordinate sprint planning, backlog refinement, estimation and delivery scheduling.
+- Review and validate engineering estimates, challenge assumptions and agree realistic implementation approaches with developers.
+- Align delivery commitments with engineering capacity, dependencies and business priorities.
+- Support resource planning, workload allocation and delivery forecasting.
 
-## 🏗️ Selected Production Work
+### Scope, risk and dependency management
 
-Websites and commerce platforms I've contributed to delivering across enterprise and client projects.
+- Identify technical risks, delivery blockers and cross-team dependencies.
+- Assess the impact of scope changes on timelines, implementation effort and release commitments.
+- Make practical scope trade-offs, protecting essential functionality while deferring lower-priority work where necessary.
+- Coordinate mitigation activities and escalate issues that threaten delivery.
+- Support release readiness, production issue coordination and delivery continuity.
 
-| Project                | Website                                           |
-| ---------------------- | ------------------------------------------------- |
-| DCC Tech Engage        | [Visit site ↗](https://engage.dcctech.com/ZAJHB)  |
-| Powerfleet Marketplace | [Visit site ↗](https://powerfleetmarketplace.com) |
-| Italtile               | [Visit site ↗](https://www.italtile.co.za)        |
-| CTM                    | [Visit site ↗](https://www.ctm.co.za)             |
-| Mabati                 | [Visit site ↗](https://shop.mabati.com)           |
-| Edgars                 | [Visit site ↗](https://edgars.co.za)              |
-| Oliver Sweeney         | [Visit site ↗](https://www.oliversweeney.com)     |
-| Boardmans              | [Visit site ↗](https://www.boardmans.co.za)       |
-| Danone                 | [Visit site ↗](https://www.danone.com)            |
+### Stakeholder and team coordination
 
-_My involvement varied by project. These links demonstrate production work I've contributed to, not sole ownership of every platform._
+- Coordinate multidisciplinary teams across frontend, backend, ERP, SAP, integrations and QA.
+- Work with Project Managers and Product Managers to align technical execution with business expectations.
+- Communicate delivery progress, risks, dependencies and technical trade-offs.
+- Facilitate engineering discussions and maintain visibility of ownership, priorities and work status.
+- Bridge business requirements and engineering implementation without losing sight of either.
 
-## 🧩 Delivery Case Studies & Artefacts
+### Engineering delivery assurance
 
-**🏗️ Commerce modernisation**
+- Assess implementation feasibility, architecture decisions and integration requirements.
+- Guide technical discussions and code reviews.
+- Support engineering standards, maintainability and quality assurance.
+- Use hands-on development experience to investigate complex blockers and support technical decision-making.
 
-Magento 2 - Mage-OS & Hyvä. Legacy frontend modernisation, technical dependencies, performance optimisation, and maintainability.
+---
 
-**🗺️ Roadmaps & delivery planning**
+## 🏗️ Selected Technical Delivery Experience
 
-Sequencing backend API readiness, B2B functionality, and frontend migration around dependencies, implementation priorities, and delivery milestones.
+### B2B Commerce Modernisation — DCC Tech
 
-**🔒 Jira workflows & governance**
+**eCommerceAfrica | Mage-OS, Magento 2 and Hyvä**
 
-I work with Jira workflows, dashboards, backlog hygiene, ticket ownership, and delivery visibility. Production dashboards and internal workflows are confidential under NDA. I protect access to sensitive delivery information and can demonstrate the approach using sanitised or recreated examples.
+A platform modernisation initiative addressing frontend performance, mobile Core Web Vitals, platform licensing costs and the complexity of an existing Magento implementation.
 
-**⚠️ Risk, issue & dependency management**
+My contribution included:
 
-Illustrative scenario: delayed API readiness threatens a frontend milestone. Assess impact, assign an owner, agree mitigation, track the dependency, and escalate when delivery commitments are at risk.
+- Evaluating modernisation options and recommending Mage-OS with Hyvä over a more complex headless React approach.
+- Assessing performance, implementation complexity, delivery timelines and long-term platform costs.
+- Identifying compatibility risks involving critical B2B extensions, including Quick Order, Negotiated Quotes and Company Accounts.
+- Coordinating frontend, backend, B2B integration, product data and QA workstreams.
+- Mapping dependencies and sequencing implementation to protect essential procurement workflows.
 
-**💬 Stakeholder communication & decisions**
+The work involved a practical balance between technical modernisation, business requirements, delivery constraints and long-term maintainability.
 
-Illustrative decision record: document a proposed scope change, its timeline and dependency impact, available options, the stakeholder decision, and agreed next steps. No confidential project records are published.
+### Magento Upgrade & Checkout Stabilisation
 
-**📊 Delivery metrics & outcomes**
+**Vectra Business Technologies | Enterprise Magento**
 
-Use verified performance improvements and, where available, delivery measures such as cycle time, throughput, milestone predictability, and defect trends. Metrics should have a clear baseline and measurement period.
+An enterprise upgrade involving third-party extension conflicts with a newer PHP version and database deadlocks affecting checkout stability.
 
-## 🧪 Independent Projects
+My contribution included:
 
-My independent projects provide practical experience exploring product development, modern frontend architecture, integrations, and end-to-end implementation.
+- Identifying technical risks that could threaten the planned release.
+- Prioritising the business-critical checkout journey.
+- Coordinating a phased implementation approach to isolate conflicting modules and stabilise core functionality.
+- Supporting targeted database indexing and deferring lower-priority capabilities to a subsequent phase.
+- Balancing release scope against operational risk and available engineering capacity.
 
-| Project                     | What it does                                                                                                  | Stack                                           | Live                                                |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------- |
-| **Mamamaps (Mummies Bank)** | Searchable community directory for Harare parents, with authentication, saved places, and pagination.         | React · Vite · Tailwind CSS · Google Sheets API | [Visit ↗](https://mamamaps-mpii.vercel.app/)        |
-| **Genesi**                  | Fertility wellness platform for Zimbabwean women, built around structured content and a dedicated data layer. | React · Vite · Supabase                         | [Visit ↗](https://genesi-fertility.netlify.app/)    |
-| **React Demo Store**        | Independent storefront demonstrating e-commerce UX patterns outside Magento.                                  | React · Tailwind CSS · DaisyUI                  | [Visit ↗](https://krm-react-demo-store.vercel.app/) |
-| **React Portfolio**         | Component-driven portfolio exploring reusable UI, theming, and content architecture.                          | React · Tailwind CSS · DaisyUI                  | [Visit ↗](https://krm-react-portfolio.vercel.app/)  |
-| **KRM.Studio**              | Independent web development studio serving local and international clients.                                   | Web development · Client delivery               | Coming Soon                                         |
+### Engineering Delivery & Team Coordination
 
-## 🏢 Engineering Problems I Solve
+Across SQLI, Vectra and eCommerceAfrica, I have worked in technical leadership and delivery coordination roles involving teams of six to eight engineers, as well as multidisciplinary contributors.
 
-### Enterprise commerce modernisation
+My responsibilities have included technical planning, estimation, task decomposition, workload coordination, delivery tracking, risk management, stakeholder communication and implementation oversight.
 
-- Led frontend modernisation work moving legacy Magento storefronts from Luma-based implementations to Hyvä.
-- Reduced JavaScript footprint by approximately **70 to 90% on relevant migrations** by replacing legacy frontend dependencies with leaner Alpine.js and Tailwind CSS implementations.
-- Improved frontend maintainability and supported better Core Web Vitals through performance-conscious architecture and implementation.
+---
 
-### Complex B2B commerce workflows
+## 🏢 Selected Production Work
 
-- Delivered company dashboards, custom pricing, bulk ordering, requisition lists, quote management, purchase-order workflows, and company role functionality on Adobe Commerce.
-- Translated complex business purchasing requirements into practical storefront features and technical implementation work.
+A selection of enterprise and client platforms I've contributed to delivering across different teams and organisations.
 
-### Cross-functional engineering delivery
+| Project                | Platform / Contribution               | Website                                         |
+| ---------------------- | ------------------------------------- | ----------------------------------------------- |
+| DCC Tech Engage        | B2B commerce and procurement platform | [Visit site](https://engage.dcctech.com/ZAJHB)  |
+| Powerfleet Marketplace | B2B marketplace                       | [Visit site](https://powerfleetmarketplace.com) |
+| Italtile               | Enterprise e-commerce                 | [Visit site](https://www.italtile.co.za)        |
+| CTM                    | E-commerce platform                   | [Visit site](https://www.ctm.co.za)             |
+| Mabati                 | Multi-brand e-commerce platform       | [Visit site](https://shop.mabati.com)           |
+| Edgars                 | High-traffic retail e-commerce        | [Visit site](https://www.edgars.co.za)          |
+| Oliver Sweeney         | E-commerce storefront                 | [Visit site](https://www.oliversweeney.com)     |
+| Boardmans              | E-commerce storefront                 | [Visit site](https://www.boardmans.co.za)       |
+| Danone                 | E-commerce development                | [Visit site](https://www.danone.com)            |
 
-- Led and coordinated engineering teams of up to eight developers across frontend and backend responsibilities, with additional technical contributors where required.
-- Worked across implementation planning, code reviews, backlog coordination, issue resolution, and delivery prioritisation.
-- Supported alignment between business requirements, technical dependencies, acceptance criteria, and engineering capacity.
+_My involvement varied by project. These links demonstrate production work I contributed to; they do not imply sole ownership of every platform._
 
-### End-to-end client delivery
+---
 
-**Quantum Leap into Freedom**: [quantumleapintofreedom.co.zw](https://quantumleapintofreedom.co.zw/)
+## 🧩 Independent Products & Projects
 
-Delivered a business website from initial concept through launch, including domain setup, hosting, and professional email configuration with SPF/DKIM. Continue to provide technical support and maintain the client relationship.
+Independent projects provide additional experience in product thinking, requirements, architecture, integrations and end-to-end implementation.
+
+| Project                                                      | Description                                                                                                   | Technology                                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| [Mamamaps](https://mamamaps-mpii.vercel.app/)                | Searchable community directory for Harare parents, with authentication, saved places and pagination.          | React, Vite, Tailwind CSS, Google Sheets API |
+| [Genesi](https://genesi-fertility.netlify.app/)              | Fertility wellness platform for Zimbabwean women, built around structured content and a dedicated data layer. | React, Vite, Supabase                        |
+| [React Demo Store](https://krm-react-demo-store.vercel.app/) | Independent storefront demonstrating e-commerce UX patterns outside Magento.                                  | React, Tailwind CSS, DaisyUI                 |
+| [React Portfolio](https://krm-react-portfolio.vercel.app/)   | Component-driven portfolio exploring reusable UI, theming and content architecture.                           | React, Tailwind CSS, DaisyUI                 |
+| KRM.Studio                                                   | Independent web development studio serving local and international clients.                                   | Web development and client delivery          |
+
+---
+
+## 🛠️ Technical Toolkit
+
+I use my engineering background to understand technical delivery challenges, assess implementation feasibility and communicate effectively with development teams.
+
+**Project & Delivery Management**
+
+Technical Project Management · Technical Program Management · Delivery Planning · Scope Management · Estimation · Estimate Validation · Resource Planning · Capacity Forecasting · Risk Management · Dependency Management · Stakeholder Communication · Release Planning · Backlog Management
+
+**Agile & Delivery Methodologies**
+
+Agile · Scrum · Kanban · Waterfall · Sprint Planning · Backlog Refinement · Daily Stand-ups · Acceptance Criteria · Continuous Improvement
+
+**Project & Collaboration Tools**
+
+Jira · YouTrack · Miro
+
+**Version Control & Engineering Collaboration**
+
+Git · GitHub · GitLab · Bitbucket · SVN · Pull Requests · Code Reviews
+
+**E-commerce & Enterprise Platforms**
+
+Adobe Commerce · Magento 2 · Mage-OS · Hyvä · Magento B2B · Shopify · WordPress · SAP · ERP and PIM integrations
+
+**Frontend & Software Engineering**
+
+JavaScript · TypeScript · React · Node.js · PHP · HTML5 · CSS3 · Sass / SCSS · LESS · PHTML · XML · KnockoutJS · RequireJS · Alpine.js · Tailwind CSS
+
+**Integration, Performance & Operations**
+
+REST APIs · Supabase · Google Sheets API · Core Web Vitals · WebPageTest · Cloudflare WAF · Datadog · AWS SQS · Docker · Production Debugging · Incident Coordination
+
+**AI-assisted Engineering**
+
+Cursor · Claude Code · Codex · GitHub Copilot · AI-assisted development workflows with human review and approval.
+
+### Tools & Methodologies — Experience Context
+
+- **Jira:** Used for development task tracking from approximately 2013; expanded into technical project management, workflow coordination and delivery tracking from 2018.
+- **Scrum:** Practical experience since 2015, beginning at Invent Commerce.
+- **Version control:** Experience across SVN, Bitbucket, GitHub and GitLab throughout software engineering roles.
+- **YouTrack:** Used for engineering workflow and delivery coordination at eCommerceAfrica.
+- **Miro:** Used for technical planning and visual collaboration at Vectra Business Technologies.
+
+---
+
+## ✍️ Writing & Practical Exploration
+
+I share practical perspectives on software engineering, technical delivery and applying AI to development workflows.
+
+- [Read my technical blog](https://karenrumbidzai.github.io/blog/)
+
+---
+
+## 📬 Let's Connect
+
+I'm interested in opportunities where technical understanding, engineering coordination and delivery leadership help teams deliver complex software successfully.
+
+**Primary professional focus**
+
+- Technical Project Manager
+- Technical Program Manager
+- Technical Delivery Manager
+- Software Delivery Lead
+
+📧 [rmufandaedza@gmail.com](mailto:rmufandaedza@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/karenrumbie/)
 
 ## 🛠️ Technical Toolkit
 
@@ -136,47 +220,6 @@ Delivered a business website from initial concept through launch, including doma
   <img src="https://img.shields.io/badge/Hyvä-7C9D96?style=flat-square" alt="Hyvä"/>
   <img src="https://img.shields.io/badge/Jira-5A7A74?style=flat-square&logo=jira&logoColor=F7F8F6" alt="Jira"/>
 </p>
-
-**Project & Delivery Management**
-
-Jira · Sprint planning · Backlog refinement · Acceptance criteria · Estimation · Dependency coordination · Risk and blocker tracking · Stakeholder communication · Agile / Scrum / Kanban · Waterfall project practices
-
-**Frontend Engineering**
-
-React · JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · Tailwind CSS · DaisyUI · Vite · Alpine.js · Vue.js
-
-**E-commerce & CMS**
-
-Adobe Commerce · Magento 2 · Hyvä · B2B commerce · XML layouts · PHTML · Custom pricing and ordering workflows
-
-**Integration & Backend Exposure**
-
-REST APIs · Supabase · Google Sheets API · PHP
-
-**Engineering Practices**
-
-Code review · Component-based architecture · Performance optimisation · Core Web Vitals · Legacy modernisation · AI-assisted development with human review
-
-## ✍️ Writing & Practical Exploration
-
-I share practical perspectives on software engineering, technical delivery, and applying AI to development workflows.
-
-- [Read my blog](https://karenrumbidzai.github.io/blog/#series)
-
-## 📬 Let's Connect
-
-I'm interested in opportunities where technical understanding and delivery leadership work together to help teams deliver valuable software.
-
-**Primary focus**
-
-- Technical Project Manager
-- Technical Delivery Manager
-- Software Delivery Lead
-- Project Manager — Technology / Software
-
-I'm also open to selected **React Frontend Engineering Lead**
-
-📧 [rmufandaedza@gmail.com](mailto:rmufandaedza@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/karenrumbie/)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E3B,50:5A7A74,100:7C9D96&height=100&section=footer" width="100%" alt=""/>
