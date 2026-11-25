@@ -37,7 +37,8 @@ A selection of enterprise and client platforms I've helped deliver across differ
 | Powerfleet Marketplace | B2B marketplace                       | [Visit site](https://powerfleetmarketplace.com) |
 | Jonsson Workwear       | B2B commerce platform                 | [Visit site](https://www.jonssonworkwear.com/)  |
 | Italtile               | Enterprise e-commerce                 | [Visit site](https://www.italtile.co.za)        |
-| CTM                    | E-commerce platform                   | [Visit site](https://www.ctm.co.za)             |
+| CTM ZA                 | B2C E-commerce platform               | [Visit site](https://www.ctm.co.za)             |
+| CTM KE                 | B2C E-commerce platform               | [Visit site](https://www.ctm.co.ke)             |
 | Mabati                 | Multi-brand e-commerce platform       | [Visit site](https://shop.mabati.com)           |
 | TopT                   | E-commerce platform                   | [Visit site](https://www.topt.co.za/)           |
 | Edgars                 | High-traffic retail e-commerce        | [Visit site](https://www.edgars.co.za)          |
