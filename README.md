@@ -51,15 +51,16 @@ _My involvement varied by project. These links show production work I contribute
 
 ## 🧩 What's in here
 
-**Magento 2 / Mage-OS modules**, small, focused storefront improvements:
+**Magento 2 / Mage-OS modules I designed and hand-coded myself**, built from patterns I developed on real client storefronts:
 
-| Repo                                                                                                         | What it does                                                                                     |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| [minicartslider](https://github.com/KarenRumbidzai/minicartslider)                                           | Slide-out cart drawer in place of the hover dropdown, with an optional CMS block for empty carts |
-| [mobile-stickytabbar](https://github.com/KarenRumbidzai/mobile-stickytabbar)                                 | Sticky bottom tab bar for mobile only                                                            |
-| [module-clearcart](https://github.com/KarenRumbidzai/module-clearcart)                                       | One-click "clear cart" button on the cart page                                                   |
-| [module-custom-checkout-success-page](https://github.com/KarenRumbidzai/module-custom-checkout-success-page) | Custom checkout success content managed through the CMS, no code changes                         |
-| [module-addtocartpopup](https://github.com/KarenRumbidzai/module-addtocartpopup)                             | Confirmation popup when an item is added to the cart                                             |
+| Repo                                                                                                       | What it does                                                                                             |
+| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [minicartslider](https://github.com/KarenRumbidzai/minicartslider)                                         | Slide-out cart drawer in place of the hover dropdown, with an optional CMS block for empty carts         |
+| [mobile-stickytabbar](https://github.com/KarenRumbidzai/mobile-stickytabbar)                               | Sticky bottom tab bar for mobile only                                                                    |
+| [module-clearcart](https://github.com/KarenRumbidzai/module-clearcart)                                     | One-click "clear cart" button on the cart page                                                           |
+| [module-custom-checkout-succes-page](https://github.com/KarenRumbidzai/module-custom-checkout-succes-page) | Custom checkout success content managed through the CMS, no code changes                                 |
+| [module-myaccountmenuslider](https://github.com/KarenRumbidzai/module-myaccountmenuslider)                 | Replaces Luma's default My Account dropdown for logged-in customers with a slide-in panel from the right |
+| [module-addtocartpopup](https://github.com/KarenRumbidzai/module-addtocartpopup)                           | Confirmation popup when an item is added to the cart                                                     |
 
 **Independent products and React projects**
 
