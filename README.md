@@ -83,9 +83,13 @@ _My involvement varied by project. These links show production work I contribute
 
 ---
 
-## 📬 Find me
+### 📝 Technical Blog
 
-📧 [rmufandaedza@gmail.com](mailto:rmufandaedza@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/karenrumbie/) · ✍️ [Blog](https://karenrumbidzai.github.io/blog/)
+I write about technology, software delivery, project management, and the practical application of AI in software development. My focus is on bridging the gap between technical execution and effective delivery, exploring how teams can build, collaborate, and deliver better in an increasingly AI-driven world.
+
+**Read my blog:** [Karen Rumbie – Blog](https://karenrumbidzai.github.io/blog/posts/ai-in-practice/)
+
+---
 
 <p>
   <img src="https://img.shields.io/badge/Delivery_Management-5A7A74?style=flat-square" alt="Delivery Management"/>
@@ -102,6 +106,10 @@ _My involvement varied by project. These links show production work I contribute
   <img src="https://img.shields.io/badge/Magento_2-2C3E3B?style=flat-square" alt="Magento 2"/>
   <img src="https://img.shields.io/badge/Hyvä-7C9D96?style=flat-square" alt="Hyvä"/>
 </p>
+
+## 📬 Find me
+
+📧 [rmufandaedza@gmail.com](mailto:rmufandaedza@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/karenrumbie/) · ✍️ [Blog](https://karenrumbidzai.github.io/blog/)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E3B,50:5A7A74,100:7C9D96&height=100&section=footer" width="100%" alt=""/>
